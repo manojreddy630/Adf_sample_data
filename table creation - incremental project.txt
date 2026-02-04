@@ -48,5 +48,3 @@ select * from dbo.temp_orders
 select * from dbo.Orders
 
 
-10:12:14 - project setup 
-14:37:01 sql table creation
